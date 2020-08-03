@@ -1,0 +1,8 @@
+To create a map you need to put the next elements on the first line of your file:
+    'L' to set a log
+    'C' to set a cactus
+    'R' to set a rock
+    'V' to set the ending point
+    ' ' to set a space
+
+In order to complete the game the ending point need to be present in the map file.
