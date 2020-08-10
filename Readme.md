@@ -18,7 +18,7 @@ The basic rules for the my_runner are as follows:
 
 Clone this repository and use the included Makefile with the command ```make```
 
-### Building the project
+### Using the project
 
 Run the my_runner executable with its map file using the command ```./my_runner [map_file]```  
 You can use the defaut map file provided in the repository or create your own by looking at the instructions provided in the .legend file.  
